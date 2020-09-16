@@ -1,50 +1,52 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+title: Home - Adobe Developers
+description:
 ---
- 
-<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+<Hero slots="heading, text, buttons"/>
 
-# Creativity for all
 
-![Creative Cloud icon](images/cc-icon.png)
+# Adobe Developers!
 
-Creative Cloud services include tools and capabilities to streamline your workflows so that you, your team, and your stakeholders stay perfectly in sync across projects of any size 
 
-* [Get started](https://adobe.io)
-* [Sign up for the newsletter](https://adobe.io)
+We're counting on you to build the most compelling experiences using our world-class Creative, Document, and Experience Cloud APIs.
 
-<AnnouncementBlock slots="heading, text, button" />
+* [See somthing cool](https://adobe.io)
+* [Sign up for a newsletter](https://adobe.io)
 
-### Try out the magic of Photoshop
+<AnnouncementBlock slots="heading, text, buttons" />
 
-Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
+### Adobe MAX—The Creativity Conference, October 20–22
 
-[Demo](https://www.adobe.io/apis/creativecloud/photo-imaging-api/api-demo.html)
+All together now. All around the world. (A spot for temporal events like Summit, Magento Imagine, MAX)
+
+Make plans to join us for a uniquely immersive and engaging digital experience, guaranteed to inspire. Three full days of luminary speakers, celebrity appearances, musical performances, global collaborative art projects, and 350+ sessions — and all at no cost.
+
+Register now to build your schedule and get sponsor giveaways.
+
+[MAX Developer-specific CTA](https://portal.adobe.com/pages/adobe/am20/signin)
 
 <TextBlock slots="image, heading, text1, text2, links" />
 
 ![Screenshot 1](images/intro1.png)
 
-### Extend Adobe CC Flagship Apps
+### Creative Cloud's Dev Feature
 
-Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs. 
+Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs.
 Be sure to check out [Common Extensibility Platform (CEP)](https://www.adobe.io/apis/creativecloud/cep.html), which lets you build custom UI panels for multiple CC apps at once.
 
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. 
+When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users.
 And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
 
 * ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 * ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
-* ![Adobe After Effect](images/ae-icon.png) [Adobe After Effect](https://www.adobe.com/products/aftereffects.html)   
+* ![Adobe After Effect](images/ae-icon.png) [Adobe After Effect](https://www.adobe.com/products/aftereffects.html)
 
 <TextBlock slots="heading, text, buttons, links, image"/>
 
-### Start Building Adobe XD Plugins
+### Document Cloud's Dev Feature
 
-Create plugins for Adobe XD that push the boundaries of experience design by adding new features to the app, automating workflows, connecting XD to external services, and more—all on a quick, modern JavaScript engine with native UI components. 
+Create plugins for Adobe XD that push the boundaries of experience design by adding new features to the app, automating workflows, connecting XD to external services, and more—all on a quick, modern JavaScript engine with native UI components.
 When you’re ready, you can ship your plugin to XD users right from within the app.
 
 * [Get started](https://adobe.io)
@@ -56,63 +58,12 @@ When you’re ready, you can ship your plugin to XD users right from within the 
 
 <TitleBlock slots="heading, text" theme="light" />
 
-### Collaborate better with Content Cloud APIs
+### Experience Cloud's Dev Feature
 
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
+With the Experience of a lifetime, something something
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![MSFT Teams logo](images/msfteams.png)
+<SummaryBlock slots="image" />
 
-### Microsoft teams
+![CC banner](images/api-list.png)
 
-Easily share Creative Cloud assets and files, and get comment notifications on your prototypes.
-
-* [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![JIRA Cloud logo](images/jira.png)
-
-### JIRA Cloud
-
-Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
-
-* [Learn more](https://www.atlassian.com/enterprise/cloud)
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![Slack logo](images/slack.png)
-
-### Slack
-
-Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
-
-* [Learn more](https://slack.com/enterprise)
-
-<TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
-
-[Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
-
-* ![Adobe](images/adobe.png)
-* ![Microsoft](images/msft.png)
-
-### Partner Success Story
-
-Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to 
-world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
-
-* [Learn more](https://adobe.io)
-* [Sign up for partner program](https://adobe.io)
-
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
-
-![CC banner](images/cc-banner.png)
-
-## Subscribe to the Creative Cloud developers newsletter 
-
-A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
-Creative Cloud family of products.
-
-* [Subscribe to the newsletter](https://adobe.io)
-* [Learn more](https://adobe.io)

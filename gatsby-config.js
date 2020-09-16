@@ -19,7 +19,7 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: 'Adobe Creative Cloud',
+        title: 'Adobe Developers',
         path: '/'
       }
     ]
